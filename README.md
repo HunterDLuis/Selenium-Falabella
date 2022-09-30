@@ -12,3 +12,4 @@ En el proyecto de ScreenPlay-clase-9 la clase
 baseTest no tiene un constructor del driver
 He replicado lo mismo en la clase basetest, se puedeo? 
 porque en este clase el driver es static
+State
